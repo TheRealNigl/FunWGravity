@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/FunWGravity/FunWGravity/FunWGravity/Content/ball.png</SourceFile>
-  <SourceTime>2018-09-22T09:02:50.7422709-05:00</SourceTime>
-  <DestFile>D:/FunWGravity/FunWGravity/FunWGravity/Content/bin/Windows/ball.xnb</DestFile>
-  <DestTime>2018-09-23T22:07:53.4630101-05:00</DestTime>
+  <SourceFile>C:/workspace/FunWGravity/FunWGravity/FunWGravity/Content/ball.png</SourceFile>
+  <SourceTime>2018-09-24T12:45:47.4683941-05:00</SourceTime>
+  <DestFile>C:/workspace/FunWGravity/FunWGravity/FunWGravity/Content/bin/Windows/ball.xnb</DestFile>
+  <DestTime>2018-09-24T12:47:48.7453679-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T09:05:36-06:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

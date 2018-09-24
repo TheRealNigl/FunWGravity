@@ -4,6 +4,6 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/FunWGravity/FunWGravity/FunWGravity/Content/ball.png</File>
+    <File>C:/workspace/FunWGravity/FunWGravity/FunWGravity/Content/ball.png</File>
   </SourceFiles>
 </SourceFileCollection>

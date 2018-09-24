@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWGravity", "FunWGravity\FunWGravity.csproj", "{17325523-9C14-4A20-A154-C11BE662FA1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWGravityNoClass", "FunWGravityNoClass\FunWGravityNoClass.csproj", "{016333A5-0CE0-4BCA-843A-2BEFB54DDEE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{17325523-9C14-4A20-A154-C11BE662FA1D}.Debug|x86.Build.0 = Debug|x86
 		{17325523-9C14-4A20-A154-C11BE662FA1D}.Release|x86.ActiveCfg = Release|x86
 		{17325523-9C14-4A20-A154-C11BE662FA1D}.Release|x86.Build.0 = Release|x86
+		{016333A5-0CE0-4BCA-843A-2BEFB54DDEE3}.Debug|x86.ActiveCfg = Debug|x86
+		{016333A5-0CE0-4BCA-843A-2BEFB54DDEE3}.Debug|x86.Build.0 = Debug|x86
+		{016333A5-0CE0-4BCA-843A-2BEFB54DDEE3}.Release|x86.ActiveCfg = Release|x86
+		{016333A5-0CE0-4BCA-843A-2BEFB54DDEE3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
